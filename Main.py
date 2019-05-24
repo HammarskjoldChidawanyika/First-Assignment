@@ -1,7 +1,3 @@
-$ git init https://github.com/HammarskjoldChidawanyika/First-Assignment.git
-
-
-
 Song = "Nyenyedzi"
 
 Artist = "Tanga WeKwaSando"
